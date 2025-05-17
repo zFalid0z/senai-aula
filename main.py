@@ -1,0 +1,3 @@
+import cat
+
+cat.getCat()
