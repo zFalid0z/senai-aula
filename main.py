@@ -1,3 +1,3 @@
 import cat
 
-cat.getCat()
+cat.getCat(filename='cat')
